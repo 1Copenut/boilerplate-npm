@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Trevor Pierce",
+	"version": "0.1.0",
+	"author": "Jane Doe",
+	"description": "This is Trevor's awesome backend API project",
+	"keywords": ["node", "express", "api", "freecodecamp"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
